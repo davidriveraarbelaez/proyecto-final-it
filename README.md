@@ -19,3 +19,7 @@
 - Santiago Marín
 - Damián Jorge
 - Felipe Taborda
+
+# Grupo 5
+- Xavier Alfonso Sánchez
+- Felipe Alvarado
