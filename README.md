@@ -23,3 +23,5 @@
 # Grupo 5
 - Xavier Alfonso Sánchez
 - Felipe Alvarado
+
+**Fecha final:** noviembre 21 de 2025
