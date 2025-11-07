@@ -9,3 +9,8 @@
 - Thomas Álzate
 - Juan Fernando Franco
 - Juan Manuel Bedoya
+
+# Grupo 3
+- Laura Betancourt
+- Mateo Zuluaga
+- Camilo López
